@@ -44,7 +44,7 @@ class Queue{
             enqueue =-1;
             dequeue =-1;
         }
-        else{
+            else{
 
             dequeue++;
         }
